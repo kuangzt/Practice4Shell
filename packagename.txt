@@ -1,0 +1,8 @@
+com.brook
+com.talents.simpledocservice
+com.talentstech.netremoteservice
+com.poi.poiandroid
+com.talents.mediaboardex
+com.talent.advertisingdatabase
+com.talentstech.mediaboard
+com.skyworth.uart

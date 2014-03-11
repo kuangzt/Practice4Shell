@@ -1,0 +1,8 @@
+ADConnect.apk
+AdvertisingDatabase.apk
+MediaboadEx.apk
+MediaBoardV4.apk
+NetRemoteService.apk
+POI-PPT.apk
+SimpleDocService.apk
+UART4Skyworth.apk
